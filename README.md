@@ -4,7 +4,7 @@
 
 <p align="center">
 Welcome to my GitHub profile!
-I'm a full-stack developer with 5+ years of experience.</br>
+I'm a full-stack developer with 4+ years of experience.</br>
 Although it's full-stack, my biggest focus is on the back-end and databases!</br>
 </p>
 
